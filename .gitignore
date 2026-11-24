@@ -1,0 +1,13 @@
+# macOS metadata
+.DS_Store
+
+# Compiled programs and debug output
+*.o
+*.out
+*.dSYM/
+intopt
+
+# Editor temporary files
+*.swp
+*.swo
+*~
