@@ -1,6 +1,6 @@
 # EDAG01 Efficient C
 
-Lab exercises for EDAG01 Efficient C, including a work-in-progress simplex solver in C.
+Lab exercises for EDAG01 Efficient C
 
 ## Labs
 
